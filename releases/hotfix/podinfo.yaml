@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: gcr.io/oceanic-hold-322507/podinfo
-      tag: ajfbmpdm
+      tag: hotfix-ajfbmpdm
     replicaCount: 2
     hpa:
       enabled: true
