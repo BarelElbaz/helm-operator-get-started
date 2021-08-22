@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: gcr.io/oceanic-hold-322507/podinfo
-      tag: dev-8e571reb
+      tag: dev-2cu5qox6
     replicaCount: 1
     hpa:
       enabled: false
